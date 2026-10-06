@@ -1,0 +1,60 @@
+['De Aza, Alejandro', 'CWS', '153', '607', '84', '160', '27', '4', '17']
+Slugging Percentage: 0.4052718286655684
+
+['Hunter, Torii', 'DET', '144', '606', '90', '184', '37', '5', '17']
+Slugging Percentage: 0.46534653465346537
+
+['Hamilton, Josh', 'LAA', '151', '576', '73', '144', '32', '5', '21']
+Slugging Percentage: 0.4322916666666667
+
+['Choo, Shin-Soo', 'CIN', '154', '569', '107', '162', '34', '2', '21']
+Slugging Percentage: 0.46221441124780316
+
+['Upton, Justin', 'ATL', '149', '558', '94', '147', '27', '2', '27']
+Slugging Percentage: 0.46415770609318996
+
+['Cabrera, Miguel', 'DET', '148', '555', '103', '193', '26', '1', '44']
+Slugging Percentage: 0.6360360360360361
+
+['Posey, Buster', 'SF', '148', '520', '61', '153', '34', '1', '15']
+Slugging Percentage: 0.45
+
+['Suzuki, Ichiro', 'NYY', '150', '520', '57', '136', '15', '3', '7']
+Slugging Percentage: 0.3423076923076923
+
+['Holliday, Matt', 'STL', '141', '520', '103', '156', '31', '1', '22']
+Slugging Percentage: 0.49038461538461536
+
+['Headley, Chase', 'SD', '141', '520', '59', '130', '35', '2', '13']
+Slugging Percentage: 0.4
+
+['Cabrera, Asdrubal', 'CLE', '136', '508', '66', '123', '35', '2', '14']
+Slugging Percentage: 0.4015748031496063
+
+['Pierzynski, A.J.', 'TEX', '134', '503', '48', '137', '24', '1', '17']
+Slugging Percentage: 0.4254473161033797
+
+['Hoes, L.J.', 'HOU', '46', '167', '24', '48', '7', '2', '1']
+Slugging Percentage: 0.3712574850299401
+
+['Young Jr., Eric', 'COL', '57', '165', '22', '40', '9', '3', '1']
+Slugging Percentage: 0.3515151515151515
+
+['Hairston, Scott', 'CHC', '52', '99', '13', '17', '2', '0', '8']
+Slugging Percentage: 0.43434343434343436
+
+["d'Arnaud, Travis", 'NYM', '31', '99', '4', '20', '3', '0', '1']
+Slugging Percentage: 0.26262626262626265
+
+['Ankiel, Rick', 'NYM', '20', '66', '7', '12', '4', '1', '2']
+Slugging Percentage: 0.36363636363636365
+
+['Ankiel, Rick', 'HOU', '25', '62', '6', '12', '3', '0', '5']
+Slugging Percentage: 0.4838709677419355
+
+['den Dekker, Matt', 'NYM', '27', '58', '7', '12', '1', '0', '1']
+Slugging Percentage: 0.27586206896551724
+
+['Sanchez, Angel', 'CWS', '1', '2', '0', '0', '0', '0', '0']
+Slugging Percentage: 0.0
+

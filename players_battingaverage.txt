@@ -1,60 +1,60 @@
-De Aza, Alejandro; CWS; 153; 607; 84; 160; 27; 4; 17
-Batting average is: 0.26359143327841844
+['De Aza, Alejandro', 'CWS', '153', '607', '84', '160', '27', '4', '17']
+Batting Average: 0.26359143327841844
 
-Hunter, Torii; DET; 144; 606; 90; 184; 37; 5; 17
-Batting average is: 0.30363036303630364
+['Hunter, Torii', 'DET', '144', '606', '90', '184', '37', '5', '17']
+Batting Average: 0.30363036303630364
 
-Hamilton, Josh; LAA; 151; 576; 73; 144; 32; 5; 21
-Batting average is: 0.25
+['Hamilton, Josh', 'LAA', '151', '576', '73', '144', '32', '5', '21']
+Batting Average: 0.25
 
-Choo, Shin-Soo; CIN; 154; 569; 107; 162; 34; 2; 21
-Batting average is: 0.28471001757469244
+['Choo, Shin-Soo', 'CIN', '154', '569', '107', '162', '34', '2', '21']
+Batting Average: 0.28471001757469244
 
-Upton, Justin; ATL; 149; 558; 94; 147; 27; 2; 27
-Batting average is: 0.26344086021505375
+['Upton, Justin', 'ATL', '149', '558', '94', '147', '27', '2', '27']
+Batting Average: 0.26344086021505375
 
-Cabrera, Miguel; DET; 148; 555; 103; 193; 26; 1; 44
-Batting average is: 0.34774774774774775
+['Cabrera, Miguel', 'DET', '148', '555', '103', '193', '26', '1', '44']
+Batting Average: 0.34774774774774775
 
-Posey, Buster; SF; 148; 520; 61; 153; 34; 1; 15
-Batting average is: 0.29423076923076924
+['Posey, Buster', 'SF', '148', '520', '61', '153', '34', '1', '15']
+Batting Average: 0.29423076923076924
 
-Suzuki, Ichiro; NYY; 150; 520; 57; 136; 15; 3; 7
-Batting average is: 0.26153846153846155
+['Suzuki, Ichiro', 'NYY', '150', '520', '57', '136', '15', '3', '7']
+Batting Average: 0.26153846153846155
 
-Holliday, Matt; STL; 141; 520; 103; 156; 31; 1; 22
-Batting average is: 0.3
+['Holliday, Matt', 'STL', '141', '520', '103', '156', '31', '1', '22']
+Batting Average: 0.3
 
-Headley, Chase; SD; 141; 520; 59; 130; 35; 2; 13
-Batting average is: 0.25
+['Headley, Chase', 'SD', '141', '520', '59', '130', '35', '2', '13']
+Batting Average: 0.25
 
-Cabrera, Asdrubal; CLE; 136; 508; 66; 123; 35; 2; 14
-Batting average is: 0.2421259842519685
+['Cabrera, Asdrubal', 'CLE', '136', '508', '66', '123', '35', '2', '14']
+Batting Average: 0.2421259842519685
 
-Pierzynski, A.J.; TEX; 134; 503; 48; 137; 24; 1; 17
-Batting average is: 0.27236580516898606
+['Pierzynski, A.J.', 'TEX', '134', '503', '48', '137', '24', '1', '17']
+Batting Average: 0.27236580516898606
 
-Hoes, L.J.; HOU; 46; 167; 24; 48; 7; 2; 1
-Batting average is: 0.2874251497005988
+['Hoes, L.J.', 'HOU', '46', '167', '24', '48', '7', '2', '1']
+Batting Average: 0.2874251497005988
 
-Young Jr., Eric; COL; 57; 165; 22; 40; 9; 3; 1
-Batting average is: 0.24242424242424243
+['Young Jr., Eric', 'COL', '57', '165', '22', '40', '9', '3', '1']
+Batting Average: 0.24242424242424243
 
-Hairston, Scott; CHC; 52; 99; 13; 17; 2; 0; 8
-Batting average is: 0.1717171717171717
+['Hairston, Scott', 'CHC', '52', '99', '13', '17', '2', '0', '8']
+Batting Average: 0.1717171717171717
 
-d'Arnaud, Travis; NYM; 31; 99; 4; 20; 3; 0; 1
-Batting average is: 0.20202020202020202
+["d'Arnaud, Travis", 'NYM', '31', '99', '4', '20', '3', '0', '1']
+Batting Average: 0.20202020202020202
 
-Ankiel, Rick; NYM; 20; 66; 7; 12; 4; 1; 2
-Batting average is: 0.18181818181818182
+['Ankiel, Rick', 'NYM', '20', '66', '7', '12', '4', '1', '2']
+Batting Average: 0.18181818181818182
 
-Ankiel, Rick; HOU; 25; 62; 6; 12; 3; 0; 5
-Batting average is: 0.1935483870967742
+['Ankiel, Rick', 'HOU', '25', '62', '6', '12', '3', '0', '5']
+Batting Average: 0.1935483870967742
 
-den Dekker, Matt; NYM; 27; 58; 7; 12; 1; 0; 1
-Batting average is: 0.20689655172413793
+['den Dekker, Matt', 'NYM', '27', '58', '7', '12', '1', '0', '1']
+Batting Average: 0.20689655172413793
 
-Sanchez, Angel; CWS; 1; 2; 0; 0; 0; 0; 0
-Batting average is: 0.0
+['Sanchez, Angel', 'CWS', '1', '2', '0', '0', '0', '0', '0']
+Batting Average: 0.0
 
